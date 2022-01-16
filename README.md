@@ -1,16 +1,40 @@
-### Hi there 👋
+## Hola, I'm Prashant Kumar! 👋
 
-<!--
-**prashant-kumar1330/prashant-kumar1330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/Prashant7586133?t=20s-UCSGN2OCfovqhpJkfQ&s=09">
+  <img align="left" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prashant-kumar17/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/prashant-kumar1330">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/prashant_kumar17/?hl=en">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/prashant.kumar.153">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<br/>
+
+
+I am an undergraduate at Netaji Subhas University of Technology.
+
+I am studying computer engineering and I am in 4th year.
+ 
+- 🔭 I’m a full stack developer.
+- 🌱 I’m currently learning Blockchain
+- 💬 Ask me about full stack developent
+- 📫 How to reach me: [LinkedIn - Prashant kumar](https://www.linkedin.com/in/prashant-kumar17/), [Email - kumarprashant1330@gmail.com](mailto:kumarprashant1330@gmail.com)
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+<div align="center">
+
+
+
+</div>
+
