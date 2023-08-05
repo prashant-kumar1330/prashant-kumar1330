@@ -27,7 +27,6 @@ I am an undergraduate at Netaji Subhas University of Technology.
 I am studying computer engineering and I am in 4th year.
  
 - 🔭 I’m a full stack developer.
-- 🌱 I’m currently learning Blockchain
 - 💬 Ask me about full stack developent
 - 📫 How to reach me: [LinkedIn - Prashant kumar](https://www.linkedin.com/in/prashant-kumar17/), [Email - kumarprashant1330@gmail.com](mailto:kumarprashant1330@gmail.com)
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
